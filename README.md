@@ -1,4 +1,4 @@
-### 3 Main Parts of this Repository
+# 3 Main Parts of this Repository
 
 **1. Media Folder** - This folder contains the images and GIFs used in the project.
 
