@@ -10,8 +10,8 @@
 
 1. Megha Dhanya
    
-2. Meghana Saisri Bisa
+2. Meghana Saisri Bisa - github username: Meghanab1909
 
-3. Monisha Sharma
+3. Monisha Sharma - github username: mona309
    
 4. Muskan Goenka - github username: goenkamuskan
